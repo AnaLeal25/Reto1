@@ -4,5 +4,5 @@ Hola Soy Ana Karen Leal Olvera, estudiante de maestría y docente de la Facultad
 ## ¿Cual es mi tema de investigación?
 ### ¿Cómo mejorar el control del vector de la enfermedad del Chagas mediante el uso de hongos entomopatógenos en viviendas del área metropolitana?
 
-![] 2025-12-09 16.02.26.jpg
+![](https://github.com/AnaLeal25/Reto1/blob/master/2015-12-09%2016.02.36.jpg)
 
